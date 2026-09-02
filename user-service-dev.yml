@@ -1,0 +1,8 @@
+app:
+  message: Hello from DEV
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/fyc_dev
+    username: postgres
+    password: postgres
